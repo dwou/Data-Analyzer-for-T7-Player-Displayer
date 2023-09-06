@@ -92,7 +92,7 @@ No comment: 6
 3) Open and run .py file and see the player/character analyses.
      * You may need to update charprops dict in .py file (line 5) with characters that aren't listed (I add them as I go)
      * "Good%" means how many players with the respective character are listed with any "good" comment, out of the total players with that character.
-       * For example, (1/8) Bryan means that only one Bryan player was listed as "good" in their comment
+       * For example, (1/8) Bryan means that only one Bryan player was listed as "good" etc. in their comment
 
 ## Notes
 * Line 1 in the .txt file is skipped. This is because I don't want to include the default data provided by Tekken-7-Player-Displayer and because I deleted the second line.
