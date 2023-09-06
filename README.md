@@ -99,4 +99,4 @@ No comment: 6
 * Key comments can be changed easily in the code.
 * The Python terminal should be monospaced in order to line up the Good% chart. Maybe you can format it so that this isn't required.
 * The comments I left for "Win quit", "No re", and "Lose quit" are a bit inconsistent
-* The data I got from the Player Displayer occurred while I was on Heihachi, around Fujin rank, with a wired connection, and I rematched most of the time.
+* The data I got from the Player Displayer occurred while I was on Heihachi, around Fujin rank, with a wired connection, and I rematched most of the time and played honestly.
