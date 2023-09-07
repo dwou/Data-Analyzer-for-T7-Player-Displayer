@@ -85,7 +85,7 @@ No comment: 6
 2) Generate player data in-game using that ^ tool. Use the comments listed here in "Tekken Player List.txt" (case insensitive):
     * "No comment" (default)
     * "Connection" (for bad connections)
-    * "Aight", "Okay", "Good", "Great" for overall set quality
+    * "Aight", "Okay", "Good", "Great" for overall set quality (good-only)
     * "No skip", "No re" (rematch), "Lose quit", "Win quit"
     * "Cheat", "Plug"
     * "Connection", "Desync"
