@@ -84,11 +84,10 @@ No comment: 6
 1) Put .py file in the same folder as Tekken-7-Player-Displayer.exe
 2) Generate player data in-game using that ^ tool. Use the comments listed here in "Tekken Player List.txt" (case insensitive):
     * "No comment" (default)
-    * "Connection" (for bad connections)
+    * "Connection" (for bad connections), "Desync"
     * "Aight", "Okay", "Good", "Great" for overall set quality (good-only)
     * "No skip", "No re" (rematch), "Lose quit", "Win quit"
     * "Cheat", "Plug"
-    * "Connection", "Desync"
 3) Open and run .py file and see the player/character analyses.
      * You may need to update charprops dict in .py file (line 5) with characters that aren't listed (I add them as I go)
      * "Good%" means how many players with the respective character are listed with any "good" comment, out of the total players with that character.
