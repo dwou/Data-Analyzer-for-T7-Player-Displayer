@@ -68,7 +68,7 @@ if 1: # analysis
     print(f"Cheaters/pluggers characters: {[chars[i] for i in range(len(chars)) if 'cheat' in comments[i] or 'plug' in comments[i]]}")
 
     # This function tacks on a sign to quickly see good%, from -- to ++
-    plus_minus_sign = lambda line: ['--','-','','+','++'][int((i[1][1]/i[1][0])*5-.000001)]
+    plus_minus_sign = lambda i: ['--','-','','+','++'][int((i[1][1]/i[1][0])*5-.000001)]
     # Print character pickrate / good% etc.
     print("\n\nGood%      Name          Freq")
     for i in sorted(chars_map.items(),key=(lambda x:x[1][0]))[::-1]:
