@@ -11,67 +11,84 @@ No duplicate IDs found in player list.
 
   ~Fun Facts~
 
-Total players VS'd: 176
+Total players VS'd: 206
 (13/15) DLCs found
-(33/36) base rosters found
-(15/18) females+Leo found
+(34/36) base rosters found
+(16/18) females+Leo found
 (31/33) males found
-26.7% VS females (35.3% expected)
+25.7% VS females (35.3% expected)
 19.9% VS DLC (29.4% expected)
-(3/4) Laws had a bad connection
-Cheaters/pluggers characters: Paul, King, Lee, Leroy Smith, Geese, Ganryu, Lei, Lars, Heihachi, Hwoarang, Josie
+(3/5) Laws had a bad connection
+Cheaters/pluggers: Feng, Ganryu, Geese, Heihachi, Hwoarang, Josie, King, King, Lars, Lee, Lei, Leroy Smith, Paul
 
   ~Chart~
 
-Note: Good% accounts for 'No comment', but freq does not
+Note: Good% accounts for 'no comment yet', but freq does not
 
 Good%      Name          Freq
-(3/9)-     Heihachi      *********
-(1/8)--    Bryan         ********
-(4/7)      Paul          ********
-(1/7)--    Lee           *******
-(4/7)      Alisa         *******
-(1/7)--    Hwoarang      *******
-(0/7)--    Lucky Chloe   *******
-(2/6)-     Dragunov      ******
-(0/5)--    Asuka         ******
-(1/6)--    King          ******
-(1/5)--    Josie         ******
-(1/6)--    Miguel        ******
-(2/6)-     Lei           ******
-(1/6)--    Bob           ******
-(0/5)--    Lars          *****
-(0/5)--    Kazuya        *****
-(2/5)-     Noctis        *****
-(1/5)--    Lili          *****
-(2/5)-     Armor King    *****
-(2/4)      Devil Jin     ****
-(0/4)--    Law           ****
-(3/4)+     Steve         ****
-(0/4)--    Marduk        ****
-(0/3)--    Feng          ***
-(1/3)-     Jin           ***
-(0/3)--    Julia         ***
-(0/2)--    Jack-7        ***
-(1/3)-     Zafina        ***
-(0/3)--    Fahkumram     ***
-(0/1)--    Kuma          **
-(0/2)--    Gigas         **
-(0/2)--    Geese         **
-(0/2)--    Yoshimitsu    **
-(0/2)--    Kazumi        **
-(0/2)--    Xiaoyu        **
-(0/1)--    Anna          *
-(0/1)--    Ganryu        *
-(0/1)--    Panda         *
-(1/1)++    Lidia         *
-(0/1)--    Nina          *
-(0/1)--    Leroy Smith   *
-(0/1)--    Eddy          *
-(0/0)      Shaheen       *
-(1/1)++    Master Raven  *
-(0/1)--    Katarina      *
+(3/11)-     Dragunov      ::::::::::: 
+(3/9 )-     Heihachi      :::::::::   ⚡
+(4/8 )      Paul          :::::::::   
+(1/8 )--    King          ::::::::    
+(1/8 )--    Hwoarang      ::::::::    
+(3/7 )      Devil Jin     :::::::     ⚡
+(1/7 )--    Lee           :::::::     
+(0/6 )--    Asuka         *******     
+(1/7 )--    Bryan         :::::::     
+(1/5 )--    Josie         *******     
+(2/7 )-     Lei           :::::::     $
+(4/7 )      Alisa         *******     
+(1/7 )--    Bob           :::::::     
+(0/7 )--    Lucky Chloe   *******     
+(1/6 )--    Miguel        ::::::      
+(2/6 )-     Armor King    ::::::      $
+(0/5 )--    Lars          :::::       
+(1/5 )--    Jin           :::::       ⚡
+(0/4 )--    Law           :::::       
+(0/5 )--    Kazuya        :::::       ⚡
+(2/5 )-     Noctis        :::::       $
+(1/5 )--    Lili          *****       
+(0/4 )--    Feng          ::::        
+(0/3 )--    Jack-7        ::::        
+(1/4 )-     Zafina        ****        $
+(3/4 )+     Steve         ::::        
+(0/4 )--    Marduk        ::::        $
+(0/3 )--    Julia         ***         $
+(0/3 )--    Fahkumram     :::         $
+(0/3 )--    Gigas         :::         
+(0/3 )--    Yoshimitsu    :::         
+(1/2 )      Leo           **          
+(0/1 )--    Anna          **          $
+(0/1 )--    Kuma          ::          
+(0/2 )--    Leroy Smith   ::          $
+(0/2 )--    Eddy          ::          
+(0/2 )--    Geese         ::          $
+(0/2 )--    Kazumi        **          
+(0/2 )--    Xiaoyu        **          
+(0/1 )--    Negan         :           $
+(0/1 )--    Ganryu        :           $
+(0/1 )--    Panda         *           
+(1/1 )++    Lidia         *           $
+(0/1 )--    Nina          *           
+(0/0 )      Shaheen       :           
+(1/1 )++    Master Raven  *           
+(0/1 )--    Katarina      *           
 
+  ~Summary~
+
+Aight: 12
+Okay: 5
+Good: 14
+Great: 8
+No skip: 29
+No re: 58
+Lose quit: 43
+Win quit: 4
+Cheat: 4
+Plug: 9
+Connection: 32
+Desync: 6
+No comment: 9
   ~Summary~
 
 Aight: 11
