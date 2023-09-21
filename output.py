@@ -1,8 +1,11 @@
 
+import sys
 import re
 
 # { name:(isfemale,isDLC) } Leo=female; robots/animals/DVJ are intended gender
-charprops = { 'Alisa':(1,0), 'Anna':(1,1), 'Armor King':(0,1), 'Asuka':(1,0), 'Bob':(0,0), 'Bryan':(0,0), 'Devil Jin':(0,0), 'Dragunov':(0,0), 'Eddy':(0,0), 'Fahkumram':(0,1), 'Feng':(0,0), 'Ganryu':(0,1), 'Geese':(0,1), 'Gigas':(0,0), 'Heihachi':(0,0), 'Hwoarang':(0,0), 'Jack-7':(0,0), 'Jin':(0,0), 'Josie':(1,0), 'Julia':(1,1), 'Katarina':(1,0), 'Kazumi':(1,0), 'Kazuya':(0,0), 'King':(0,0), 'Kuma':(0,0), 'Lars':(0,0), 'Law':(0,0), 'Lee':(0,0), 'Lei':(0,1), 'Leroy Smith':(0,1), 'Lidia':(1,1), 'Lili':(1,0), 'Lucky Chloe':(1,0), 'Marduk':(0,1), 'Master Raven':(1,0), 'Miguel':(0,0), 'Negan':(0,1), 'Nina':(1,0), 'Noctis':(0,1), 'Panda':(1,0), 'Paul':(0,0), 'Shaheen':(0,0), 'Steve':(0,0), 'Xiaoyu':(1,0), 'Yoshimitsu':(0,0), 'Zafina':(1,1) }
+charprops = { 'Alisa':(1,0), 'Anna':(1,1), 'Armor King':(0,1), 'Asuka':(1,0), 'Bob':(0,0), 'Bryan':(0,0), 'Devil Jin':(0,0), 'Dragunov':(0,0), 'Eddy':(0,0), 'Fahkumram':(0,1), 'Feng':(0,0), 'Ganryu':(0,1), 'Geese':(0,1), 'Gigas':(0,0), 'Heihachi':(0,0), 'Hwoarang':(0,0), 'Jack-7':(0,0), 'Jin':(0,0), 'Josie':(1,0), 'Julia':(1,1), 'Katarina':(1,0), 'Kazumi':(1,0), 'Kazuya':(0,0), 'King':(0,0), 'Kuma':(0,0), 'Lars':(0,0), 'Law':(0,0), 'Lee':(0,0), 'Lei':(0,1), 'Leo':(1,0), 'Leroy Smith':(0,1), 'Lidia':(1,1), 'Lili':(1,0), 'Lucky Chloe':(1,0), 'Marduk':(0,1), 'Master Raven':(1,0), 'Miguel':(0,0), 'Negan':(0,1), 'Nina':(1,0), 'Noctis':(0,1), 'Panda':(1,0), 'Paul':(0,0), 'Shaheen':(0,0), 'Steve':(0,0), 'Xiaoyu':(1,0), 'Yoshimitsu':(0,0), 'Zafina':(1,1) }
+mishimas = { 'Devil Jin', 'Heihachi', 'Jin', 'Kazuya'}
+
 
 males   = [i for i in charprops.keys() if charprops[i][0] == 0]
 females = [i for i in charprops.keys() if charprops[i][0] == 1]
@@ -20,6 +23,7 @@ with open("Tekken Player List.txt","r") as f:
 def verify_groups(groups):
     for i in groups:
         print(f"{i[0]:30}{i[1]:12}{i[2]:18}{i[3]}")
+
 
 if 1: # analysis
     #                        Username     Char                ID         Comment
@@ -72,26 +76,32 @@ if 1: # analysis
     print(f"{100*total_f/total:3.1f}% VS females (35.3% expected)")
     print(f"{100*total_dlc/total:3.1f}% VS DLC (29.4% expected)")
     print(f"({sum([1 for i in range(len(chars)) if chars[i]=='Law' and 'connection' in comments[i]])}/{chars_map['Law'][0]}) Laws had a bad connection")
-    print(f"Cheaters/pluggers characters: {', '.join([chars[i] for i in range(len(chars)) if 'cheat' in comments[i] or 'plug' in comments[i]])}")
+    cheater_chars = sorted([chars[i] for i in range(len(chars)) if 'cheat' in comments[i] or 'plug' in comments[i]])
+    print(f"Cheaters/pluggers: {', '.join(cheater_chars)}")
 
     # This function tacks on a sign to quickly see good%, from -- to ++
     # Made to work with chars_map
     plus_minus_sign = lambda i: ['--','-','','+','++'][int((i[1][1]/(i[1][0]-i[1][2]))*5-.000001)] if i[1][0] - i[1][2] > 0 else ''
     # Print character pickrate / good% etc.
+
+    max_num1 = len(str(max([ i[1][1] for i in chars_map.items() ])))
+    max_num2 = len(str(max([ i[1][0]-i[1][2] for i in chars_map.items() ])))
+    max_picks = max([ i[1][0] for i in chars_map.items() ])
     print("\n  ~Chart~\n")
-    print("Note: Good% accounts for 'No comment', but freq does not\n")
+    print("Note: Good% accounts for 'no comment yet', but freq does not\n")
     print("Good%      Name          Freq")
     for i in sorted(chars_map.items(),key=(lambda x:x[1][0]))[::-1]:
-        print(f"({i[1][1]}/{i[1][0]-i[1][2]}){(plus_minus_sign(i)).ljust(6)}{i[0].ljust(14)}{'*'*i[1][0]}")
+        symbols ='$'[:i[0] in dlcs] + '⚡'[:i[0] in mishimas]
+        #symbols = ' '.join(list(symbols)) #'♂♀'
+        gender_sign = ':*'[i[0] in females]
+        print(f"({str(i[1][1]).ljust(max_num1)}/{str(i[1][0]-i[1][2]).ljust(2)}){(plus_minus_sign(i)).ljust(6)}{i[0].ljust(14)}{(gender_sign*i[1][0]).ljust(max_picks)} {symbols}")
 
     # print comment frequencies
     print("\n  ~Summary~\n")
     for j in comkeys:
         print(j,": ",len([i for i in comments if j.lower() in i]),sep="")
 
-
-#if not "idlelib" in sys.modules: input() #input if not in IDLE; broken
-
+if not "idlelib" in sys.modules: input() #input if not in IDLE; works now; Python, huh?
 
 
 
