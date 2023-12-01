@@ -3,7 +3,7 @@ import sys
 import re
 
 # { name:(isfemale,isDLC) } Leo=female; robots/animals/DVJ are intended gender
-charprops = { 'Alisa':(1,0), 'Anna':(1,1), 'Armor King':(0,1), 'Asuka':(1,0), 'Bob':(0,0), 'Bryan':(0,0), 'Devil Jin':(0,0), 'Dragunov':(0,0), 'Eddy':(0,0), 'Fahkumram':(0,1), 'Feng':(0,0), 'Ganryu':(0,1), 'Geese':(0,1), 'Gigas':(0,0), 'Heihachi':(0,0), 'Hwoarang':(0,0), 'Jack-7':(0,0), 'Jin':(0,0), 'Josie':(1,0), 'Julia':(1,1), 'Katarina':(1,0), 'Kazumi':(1,0), 'Kazuya':(0,0), 'King':(0,0), 'Kunimitsu':(1,1), 'Kuma':(0,0), 'Lars':(0,0), 'Law':(0,0), 'Lee':(0,0), 'Lei':(0,1), 'Leo':(1,0), 'Leroy Smith':(0,1), 'Lidia':(1,1), 'Lili':(1,0), 'Lucky Chloe':(1,0), 'Marduk':(0,1), 'Master Raven':(1,0), 'Miguel':(0,0), 'Negan':(0,1), 'Nina':(1,0), 'Noctis':(0,1), 'Panda':(1,0), 'Paul':(0,0), 'Shaheen':(0,0), 'Steve':(0,0), 'Xiaoyu':(1,0), 'Yoshimitsu':(0,0), 'Zafina':(1,1) }
+charprops = { 'Alisa':(1,0), 'Anna':(1,1), 'Armor King':(0,1), 'Asuka':(1,0), 'Bob':(0,0), 'Bryan':(0,0), 'Claudio':(0,0), 'Devil Jin':(0,0), 'Dragunov':(0,0), 'Eddy':(0,0), 'Fahkumram':(0,1), 'Feng':(0,0), 'Ganryu':(0,1), 'Geese':(0,1), 'Gigas':(0,0), 'Heihachi':(0,0), 'Hwoarang':(0,0), 'Jack-7':(0,0), 'Jin':(0,0), 'Josie':(1,0), 'Julia':(1,1), 'Katarina':(1,0), 'Kazumi':(1,0), 'Kazuya':(0,0), 'King':(0,0), 'Kunimitsu':(1,1), 'Kuma':(0,0), 'Lars':(0,0), 'Law':(0,0), 'Lee':(0,0), 'Lei':(0,1), 'Leo':(1,0), 'Leroy Smith':(0,1), 'Lidia':(1,1), 'Lili':(1,0), 'Lucky Chloe':(1,0), 'Marduk':(0,1), 'Master Raven':(1,0), 'Miguel':(0,0), 'Negan':(0,1), 'Nina':(1,0), 'Noctis':(0,1), 'Panda':(1,0), 'Paul':(0,0), 'Shaheen':(0,0), 'Steve':(0,0), 'Xiaoyu':(1,0), 'Yoshimitsu':(0,0), 'Zafina':(1,1) }
 mishimas = { 'Devil Jin', 'Heihachi', 'Jin', 'Kazuya'}
 
 
