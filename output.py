@@ -3,9 +3,8 @@ import sys
 import re
 
 # { name:(isfemale,isDLC) } Leo=female; robots/animals/DVJ are intended gender
-charprops = { 'Alisa':(1,0), 'Anna':(1,1), 'Armor King':(0,1), 'Asuka':(1,0), 'Bob':(0,0), 'Bryan':(0,0), 'Claudio':(0,0), 'Devil Jin':(0,0), 'Dragunov':(0,0), 'Eddy':(0,0), 'Fahkumram':(0,1), 'Feng':(0,0), 'Ganryu':(0,1), 'Geese':(0,1), 'Gigas':(0,0), 'Heihachi':(0,0), 'Hwoarang':(0,0), 'Jack-7':(0,0), 'Jin':(0,0), 'Josie':(1,0), 'Julia':(1,1), 'Katarina':(1,0), 'Kazumi':(1,0), 'Kazuya':(0,0), 'King':(0,0), 'Kunimitsu':(1,1), 'Kuma':(0,0), 'Lars':(0,0), 'Law':(0,0), 'Lee':(0,0), 'Lei':(0,1), 'Leo':(1,0), 'Leroy Smith':(0,1), 'Lidia':(1,1), 'Lili':(1,0), 'Lucky Chloe':(1,0), 'Marduk':(0,1), 'Master Raven':(1,0), 'Miguel':(0,0), 'Negan':(0,1), 'Nina':(1,0), 'Noctis':(0,1), 'Panda':(1,0), 'Paul':(0,0), 'Shaheen':(0,0), 'Steve':(0,0), 'Xiaoyu':(1,0), 'Yoshimitsu':(0,0), 'Zafina':(1,1) }
+charprops = { 'Akuma':(0,0), 'Alisa':(1,0), 'Anna':(1,1), 'Armor King':(0,1), 'Asuka':(1,0), 'Bob':(0,0), 'Bryan':(0,0), 'Claudio':(0,0), 'Devil Jin':(0,0), 'Dragunov':(0,0), 'Eddy':(0,0), 'Eliza':(1,1), 'Fahkumram':(0,1), 'Feng':(0,0), 'Ganryu':(0,1), 'Geese':(0,1), 'Gigas':(0,0), 'Heihachi':(0,0), 'Hwoarang':(0,0), 'Jack-7':(0,0), 'Jin':(0,0), 'Josie':(1,0), 'Julia':(1,1), 'Katarina':(1,0), 'Kazumi':(1,0), 'Kazuya':(0,0), 'King':(0,0), 'Kunimitsu':(1,1), 'Kuma':(0,0), 'Lars':(0,0), 'Law':(0,0), 'Lee':(0,0), 'Lei':(0,1), 'Leo':(1,0), 'Leroy Smith':(0,1), 'Lidia':(1,1), 'Lili':(1,0), 'Lucky Chloe':(1,0), 'Marduk':(0,1), 'Master Raven':(1,0), 'Miguel':(0,0), 'Negan':(0,1), 'Nina':(1,0), 'Noctis':(0,1), 'Panda':(1,0), 'Paul':(0,0), 'Shaheen':(0,0), 'Steve':(0,0), 'Xiaoyu':(1,0), 'Yoshimitsu':(0,0), 'Zafina':(1,1) }
 mishimas = { 'Devil Jin', 'Heihachi', 'Jin', 'Kazuya'}
-
 
 males   = [i for i in charprops.keys() if charprops[i][0] == 0]
 females = [i for i in charprops.keys() if charprops[i][0] == 1]
@@ -13,7 +12,8 @@ dlcs    = [i for i in charprops.keys() if charprops[i][1] == 1]
 base_r  = [i for i in charprops.keys() if charprops[i][1] == 0]
 
 # Case insensitive
-comkeys = ["Aight","Okay","Good","Great","No skip","No re","Lose quit","Win quit","Cheat","Plug","Connection","Desync","No comment"]
+# "boost" = save scum
+comkeys = ["Aight","Okay","Good","Great","No skip","No re","Lose quit","Win quit","Cheat","Plug","Connection","Desync","Boosted","Custom","BM","No comment"]
 goods = ["Aight","Okay","Good","Great"]
 bads = [i for i in comkeys if i not in goods]
 #bads.remove("Desync")
@@ -24,20 +24,32 @@ with open("Tekken Player List.txt","r") as f:
 # Print character data line-by-line to verify groups
 def verify_groups(groups):
     for i in groups:
-        print(f"{i[0]:30}{i[1]:12}{i[2]:18}{i[3]}")
+        print(f"{i[0]:32}{i[1]:13}{i[2]:18}{i[3]}")
 
+def get_all_char(name): # get all groups with char=name
+    return [group for group in groups if group[1]==name]
 
-if 1: # analysis
+def print_all_char(name):
+    for i in get_all_char(name):
+        print(f"{i[0]:32}{i[1]:13}{i[2]:18}{i[3]}")
+
+def print_all_by_freq(): # prints all lines by character freq
+    for i in sorted(chars_nodupe, key=lambda x: chars.count(x))[::-1]:
+        print("")
+        print_all_char(i)
+
+def main(): # analysis
+    global groups, chars, chars_nodupe
     #                        Username     Char                ID         Comment
     groups = [ re.findall(r"^([^\t\n]+)\t+([a-zA-Z 7-]+?)\t+\((\d+)\)\t+?(.*)$",i)[-1] for i in lines ]
     if 0: verify_groups(groups)
     names, chars, IDs, comments = [ [row[i] for row in groups] for i in range(4)]
     comments = [ i.lower() for i in comments ]
-    chars_nodupe = sorted([j for i,j in enumerate(chars) if j not in chars[i:]])
+    chars_nodupe = sorted([j for i,j in enumerate(chars) if j not in chars[i+1:]])
 
 
     # Find IDs with multiple entries
-    if (dupes := { j for i,j in enumerate(IDs) if j in IDs[i+1:] }):
+    if dupes := { j for i,j in enumerate(IDs) if j in IDs[i+1:] }:
         print(f'Duplicate IDs: {dupes}')
     else:
         print('No duplicate IDs found in player list.')
@@ -71,14 +83,18 @@ if 1: # analysis
     # Print fun facts
     print("\n  ~Fun Facts~\n")
     print("Total players VS'd:",total)
-    print(f"({len(dlcs)}/15) DLCs found")
-    print(f"({len(base_r)}/36) base rosters found")
-    print(f"({len(females)}/18) females+Leo found")
-    print(f"({len(males)}/33) males found")
+    if len(dlcs)==15 and len(base_r)==36:
+        print("All characters found")
+    else:
+        print(f"({len(dlcs)}/15) DLCs found")
+        print(f"({len(base_r)}/36) base rosters found")
+        print(f"({len(females)}/18) females+Leo found")
+        print(f"({len(males)}/33) males found")
     print(f"{100*total_f/total:3.1f}% VS females (35.3% expected)")
     print(f"{100*total_dlc/total:3.1f}% VS DLC (29.4% expected)")
-    print(f"({sum([1 for i in range(len(chars)) if chars[i]=='Law' and 'connection' in comments[i]])}/{chars_map['Law'][0]}) Laws had a bad connection")
-    cheater_chars = sorted([chars[i] for i in range(len(chars)) if 'cheat' in comments[i] or 'plug' in comments[i]])
+    print(f"({sum(1 for i in range(len(chars)) if chars[i] in mishimas and 'connection' in comments[i])}/{sum(1 for i in range(len(chars)) if chars[i] in mishimas)}) Mishimas had a bad connection")
+    print(f"({sum(1 for i in range(len(chars)) if chars[i]=='Law' and 'connection' in comments[i])}/{chars_map['Law'][0]}) Laws had a bad connection")
+    cheater_chars = sorted([chars[i] for i in range(len(chars)) if any(j in comments[i] for j in ['cheat','plug','boost'])])
     print(f"Cheat/plug ({len(cheater_chars)}): {', '.join(cheater_chars)}")
 
     # This function tacks on a sign to quickly see good%, from -- to ++
@@ -105,15 +121,17 @@ if 1: # analysis
     comment_freq_m
     max_comment = max(map(lambda x:len(str(x)),comment_freq_m.values()))
     for j,i in sorted(comment_freq_m.items(),key=lambda x:x[1])[::-1]:
-        print(f'{str(i).ljust(max_comment)} ({100*i/total:4.1f}%) {j}')
+        print(f'{str(i).rjust(max_comment)} ({100*i/total:4.1f}%) {j}')
     quit_comments = ["No re","Lose quit","Win quit","Plug"] # Desync OK
     total_quits = [j for j in comments if any(1 for i in quit_comments if i.lower() in j) ]
     print(f"({100*len(total_quits)/total:4.1f}%) total No re, Lose quit, Win quit, Plug")
     viable_comments = [i for i in comments if not any(['connection' in i, 'cheat' in i, 'No comment' in i, 'Desync' in i])]
     total_quits2 = [i for i in viable_comments if i in total_quits]
-    print(f'({100*len(total_quits2)/len(viable_comments):4.1f}%) total no rematch, excluding connection, cheating, "no comment", desync')
+    print(f'({100*len(total_quits2)/len(viable_comments):4.1f}%) total No re, excluding connection, cheating, "no comment", desync')
 
-if not "idlelib" in sys.modules: input() #input if not in IDLE; works now; Python, huh?
+if __name__ == "__main__":
+    main()
+    if not "idlelib" in sys.modules: input() #input if not in IDLE; works now; Python, huh?
 
 
 

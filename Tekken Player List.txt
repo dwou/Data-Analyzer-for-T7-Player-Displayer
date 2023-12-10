@@ -260,7 +260,7 @@ lmfaoboy1224			Hwoarang	(76561198075845812)	Lose quit
 Lukem				Bryan		(76561197993163168)	Lose quit, desync
 Golgo13				Lili		(76561198144589057)	Lose quit
 Marseillaise			Asuka		(76561199197243569)	Win quit, bad connection
-Osserva				Zafina		(76561199061649780)	Win quit
+Osserva				Zafina		(76561199061649780)	Win quit, BM
 FOCACCIA_7			Jack-7		(76561198035648374)	Lose quit
 starwarsnerd1			Kazuya		(76561198026763806)	no comment yet
 1mao				Heihachi	(76561198058633219)	Win quit
@@ -340,3 +340,39 @@ GibbyGibbertson			Lucky Chloe	(76561198043023938)	No skip, win quit
 Cloconut			Lili		(76561198070416203)	BM, no skip, bad connection
 Mugen Tako			Lili		(76561198048622333)	Aight, lose quit
 lazybones			Noctis		(76561198399648352)	Good
+GlassJawManBaby			Miguel		(76561197983514360)	Aight, bad connection
+Jiraiya				Leo		(76561198275660334)	Win quit
+SlowXiaoyu			Xiaoyu		(76561198142118962)	Terrible connection, lose quit
+Hallux				Steve		(76561198317532283)	Aight, lose quit
+76561198277123034		King		(76561198277123034)	Terrible connection, lose quit
+AkOcHuDaS			Gigas		(76561198809421502)	Aight
+Agent Sikers			Eliza		(76561199051443105)	Lose quit
+DrHero				Hwoarang	(76561198045625020)	BM Hwoarang
+KiS				Kazumi		(76561198980585617)	+-1 rank rematch
+Kensei				King		(76561198017080579)	Bad connection
+phoenixforce89-pc		Xiaoyu		(76561198870395007)	Lose quit
+enix4now			Lei		(76561198231871820)	Bad connection, no skip
+DinoTheDonDaDa			Leo		(76561199262712962)	Lose quit
+lubel1984			Akuma		(76561198847058317)	No skip, lose quit
+[T.TV] Uke Bumaye		Asuka		(76561199052774810)	Terrible connection
+bootles				Jack-7		(76561198037870160)	Lose quit
+Oddworld			Devil Jin	(76561199222966127)	Bad connection Mishima, lose quit
+twitch.tv/DivinexClarity	Zafina		(76561199087936577)	Lose quit
+GNTTS				Lucky Chloe	(76561198111782665)	Lose quit
+HayateXIII			Leo		(76561198035147371)	Lose quit
+I wanna vex u up		Feng		(76561198986983875)	Lose quit
+Mine				Katarina	(76561198032356282)	no comment yet
+dragnats23			Dragunov	(76561199491367671)	Bad connection, NO SKIP
+one handed gaymr		Kazuya		(76561198269257102)	Lose quit
+Kanye's Ego			Jin		(76561198184426967)	Bad connection Mishima, lose quit
+CHI | IL-TekkenOtaku		Jack-7		(76561199074936433)	Win quit, bad connection
+Faceguy. \,,/(-_-)\,,/		Lee		(76561197998509025)	Terrible connection
+DickEnYou			Dragunov	(76561198144723221)	BM, bad custom, no skip
+Spartan Chino @Twitch		Leroy Smith	(76561198413883442)	Terrible connection, no skip
+Voltampt			Feng		(76561198057903910)	Bad connection, possibly cheating
+Its_Warren_G			Bryan		(76561198137888697)	BM, lose quit
+Inu_Anzu			Leroy Smith	(76561199140871744)	Aight, bad connection
+rfholloway			Paul		(76561198009693774)	Lose quit
+Helios				Kazuya		(76561198116703474)	Bad connection Mishima
+SD				Nina		(76561198217065987)	Good, mid connection
+Grief Counselor			Jin		(76561198191396175)	Bad connection Mishima
