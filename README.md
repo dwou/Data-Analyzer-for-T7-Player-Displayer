@@ -10,88 +10,91 @@ No duplicate IDs found in player list.
 
   ~Fun Facts~
 
-Total players VS'd: 341
-(14/15) DLCs found
-(35/36) base rosters found
-(17/18) females+Leo found
-(32/33) males found
-27.9% VS females (35.3% expected)
-21.1% VS DLC (29.4% expected)
+Total players VS'd: 377
+All characters found
+28.4% VS females (35.3% expected)
+20.4% VS DLC (29.4% expected)
+(20/47) Mishimas had a bad connection
 (3/5) Laws had a bad connection
-Cheat/plug (19): Alisa, Armor King, Bryan, Feng, Ganryu, Geese, Gigas, Heihachi, Hwoarang, Jin, Josie, King, King, Lars, Lee, Lei, Leroy Smith, Paul, Steve
+Cheat/plug (21): Alisa, Armor King, Bryan, Feng, Feng, Feng, Ganryu, Geese, Gigas, Heihachi, Hwoarang, Jin, Josie, King, King, Lars, Lee, Lei, Leroy Smith, Paul, Steve
 
   ~Chart~
 
 Note: Good% accounts for 'no comment yet', but freq does not
 
 Good%      Name          Freq
-(3/14)-    Bryan         ::::::::::::::::
-(6/15)-    Dragunov      :::::::::::::::
+(6/17)-    Dragunov      :::::::::::::::::
+(4/15)-    Bryan         :::::::::::::::::
 (2/14)--   Lili          ***************
-(1/13)--   Hwoarang      :::::::::::::
-(5/12)     Heihachi      ::::::::::::     M
-(4/11)-    Paul          ::::::::::::
-(4/12)-    Noctis        ::::::::::::     $
-(1/11)--   Jin           :::::::::::      M
-(1/10)--   Asuka         ***********
-(1/11)--   Miguel        :::::::::::
-(2/11)--   Lei           :::::::::::      $
-(6/11)     Steve         :::::::::::
-(4/11)-    Armor King    :::::::::::      $
-(1/10)--   King          ::::::::::
+(1/14)--   Hwoarang      ::::::::::::::
+(1/13)--   Jin           :::::::::::::     M
+(4/12)-    Paul          :::::::::::::
+(1/11)--   Asuka         ************
+(1/12)--   King          ::::::::::::
+(2/11)--   Kazuya        ::::::::::::      M
+(2/12)--   Miguel        ::::::::::::
+(2/12)--   Lei           ::::::::::::      $
+(5/12)     Heihachi      ::::::::::::      M
+(7/12)     Steve         ::::::::::::
+(4/12)-    Noctis        ::::::::::::      $
+(2/11)--   Lucky Chloe   ***********
+(4/11)-    Armor King    :::::::::::       $
+(4/10)-    Devil Jin     ::::::::::        M
+(2/10)--   Lee           ::::::::::
+(0/10)--   Feng          ::::::::::
+(1/9 )--   Jack-7        ::::::::::
 (1/8 )--   Josie         **********
-(2/9 )-    Kazuya        ::::::::::       M
-(2/10)--   Lucky Chloe   **********
-(4/9 )     Devil Jin     :::::::::        M
-(2/9 )-    Lee           :::::::::
 (4/9 )     Alisa         *********
-(0/8 )--   Feng          ::::::::
-(1/7 )--   Jack-7        ::::::::
+(0/8 )--   Xiaoyu        *********
+(1/8 )--   Leo           ********
 (1/7 )--   Bob           :::::::
-(0/6 )--   Xiaoyu        *******
+(2/6 )-    Leroy Smith   ::::::            $
 (0/6 )--   Lars          ::::::
-(1/5 )--   Leo           *****
-(1/5 )--   Zafina        *****            $
+(1/6 )--   Zafina        ******            $
+(2/6 )-    Gigas         ::::::
 (1/5 )--   Law           :::::
-(1/5 )--   Gigas         :::::
+(0/5 )--   Kazumi        *****
 (1/4 )-    Eddy          ::::
-(0/3 )--   Anna          ****             $
-(1/4 )-    Leroy Smith   ::::             $
-(1/4 )-    Julia         ****             $
-(0/4 )--   Fahkumram     ::::             $
+(0/3 )--   Anna          ****              $
+(1/4 )-    Julia         ****              $
+(0/4 )--   Fahkumram     ::::              $
 (0/4 )--   Yoshimitsu    ::::
-(0/4 )--   Kazumi        ****
-(0/4 )--   Marduk        ::::             $
-(0/3 )--   Kunimitsu     ***              $
-(1/3 )-    Negan         :::              $
-(0/3 )--   Ganryu        :::              $
-(0/3 )--   Geese         :::              $
+(0/4 )--   Marduk        ::::              $
+(0/3 )--   Kunimitsu     ***               $
+(1/3 )-    Negan         :::               $
+(0/3 )--   Ganryu        :::               $
+(1/3 )-    Nina          ***
+(0/3 )--   Geese         :::               $
 (1/3 )-    Master Raven  ***
-(0/2 )--   Nina          **
 (0/1 )--   Kuma          ::
 (1/1 )++   Shaheen       ::
+(0/1 )--   Katarina      **
+(0/1 )--   Akuma         :
+(0/1 )--   Eliza         *                 $
 (0/1 )--   Claudio       :
 (0/1 )--   Panda         *
-(1/1 )++   Lidia         *                $
-(0/1 )--   Katarina      *
+(1/1 )++   Lidia         *                 $
 
   ~Summary~
 
-88 (25.8%) Lose quit
-68 (19.9%) Connection
-66 (19.4%) No re
-49 (14.4%) No skip
-27 ( 7.9%) Aight
-24 ( 7.0%) Win quit
-20 ( 5.9%) Good
-14 ( 4.1%) Great
-13 ( 3.8%) No comment
-13 ( 3.8%) Plug
-9  ( 2.6%) Desync
-8  ( 2.3%) Okay
-6  ( 1.8%) Cheat
-(55.7%) total No re, Lose quit, Win quit, Plug
-(63.3%) total no rematch, excluding connection, cheating, "no comment", desync
+105 (27.9%) Lose quit
+ 85 (22.5%) Connection
+ 66 (17.5%) No re
+ 54 (14.3%) No skip
+ 31 ( 8.2%) Aight
+ 26 ( 6.9%) Win quit
+ 22 ( 5.8%) Good
+ 14 ( 3.7%) No comment
+ 14 ( 3.7%) Great
+ 13 ( 3.4%) Plug
+  9 ( 2.4%) Desync
+  8 ( 2.1%) BM
+  8 ( 2.1%) Okay
+  7 ( 1.9%) Cheat
+  3 ( 0.8%) Custom
+  1 ( 0.3%) Boosted
+(55.4%) total No re, Lose quit, Win quit, Plug
+(64.0%) total No re, excluding connection, cheating, "no comment", desync
 ```
 
 ## Setup
@@ -101,7 +104,8 @@ Good%      Name          Freq
     * "Connection" (for bad connections), "Desync"
     * "Aight", "Okay", "Good", "Great" for overall set quality (good-only)
     * "No skip", "No re" (rematch), "Lose quit", "Win quit"
-    * "Cheat", "Plug"
+    * "Cheat", "Plug", "Boosted"
+    * "Custom", "BM"
 3) Open and run .py file and see the player/character analyses.
      * You may need to update charprops dict in .py file (line 5) with characters that aren't listed (I add them as I go)
      * "Good%" means how many players with the respective character are listed with any "good" comment, out of the total players with that character.
