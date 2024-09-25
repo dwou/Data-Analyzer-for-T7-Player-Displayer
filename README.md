@@ -10,91 +10,92 @@ No duplicate IDs found in player list.
 
   ~Fun Facts~
 
-Total players VS'd: 377
+Total players VS'd: 520
 All characters found
-28.4% VS females (35.3% expected)
-20.4% VS DLC (29.4% expected)
-(20/47) Mishimas had a bad connection
-(3/5) Laws had a bad connection
-Cheat/plug (21): Alisa, Armor King, Bryan, Feng, Feng, Feng, Ganryu, Geese, Gigas, Heihachi, Hwoarang, Jin, Josie, King, King, Lars, Lee, Lei, Leroy Smith, Paul, Steve
+27.7% VS females (35.3% expected)
+21.7% VS DLC (29.4% expected)
+(33/67) Mishimas had a bad connection
+(4/9) Laws had a bad connection
+Cheater chars (14): Bryan, Feng, Feng, Ganryu, Heihachi, Hwoarang, King, King, King, Lars, Lars, Paul, Xiaoyu, Zafina
+Plugging chars (22): Alisa, Armor King, Eddy, Eddy, Feng, Ganryu, Geese, Gigas, Hwoarang, Hwoarang, Jin, Josie, Kazumi, Law, Law, Lee, Lei, Leroy Smith, Marduk, Miguel, Negan, Steve
 
   ~Chart~
 
 Note: Good% accounts for 'no comment yet', but freq does not
 
 Good%      Name          Freq
-(6/17)-    Dragunov      :::::::::::::::::
-(4/15)-    Bryan         :::::::::::::::::
-(2/14)--   Lili          ***************
-(1/14)--   Hwoarang      ::::::::::::::
-(1/13)--   Jin           :::::::::::::     M
-(4/12)-    Paul          :::::::::::::
-(1/11)--   Asuka         ************
-(1/12)--   King          ::::::::::::
-(2/11)--   Kazuya        ::::::::::::      M
-(2/12)--   Miguel        ::::::::::::
-(2/12)--   Lei           ::::::::::::      $
-(5/12)     Heihachi      ::::::::::::      M
-(7/12)     Steve         ::::::::::::
-(4/12)-    Noctis        ::::::::::::      $
-(2/11)--   Lucky Chloe   ***********
-(4/11)-    Armor King    :::::::::::       $
-(4/10)-    Devil Jin     ::::::::::        M
-(2/10)--   Lee           ::::::::::
-(0/10)--   Feng          ::::::::::
-(1/9 )--   Jack-7        ::::::::::
-(1/8 )--   Josie         **********
-(4/9 )     Alisa         *********
-(0/8 )--   Xiaoyu        *********
-(1/8 )--   Leo           ********
-(1/7 )--   Bob           :::::::
-(2/6 )-    Leroy Smith   ::::::            $
-(0/6 )--   Lars          ::::::
-(1/6 )--   Zafina        ******            $
-(2/6 )-    Gigas         ::::::
-(1/5 )--   Law           :::::
-(0/5 )--   Kazumi        *****
-(1/4 )-    Eddy          ::::
-(0/3 )--   Anna          ****              $
-(1/4 )-    Julia         ****              $
-(0/4 )--   Fahkumram     ::::              $
-(0/4 )--   Yoshimitsu    ::::
-(0/4 )--   Marduk        ::::              $
-(0/3 )--   Kunimitsu     ***               $
-(1/3 )-    Negan         :::               $
-(0/3 )--   Ganryu        :::               $
-(1/3 )-    Nina          ***
-(0/3 )--   Geese         :::               $
-(1/3 )-    Master Raven  ***
-(0/1 )--   Kuma          ::
-(1/1 )++   Shaheen       ::
-(0/1 )--   Katarina      **
-(0/1 )--   Akuma         :
-(0/1 )--   Eliza         *                 $
-(0/1 )--   Claudio       :
-(0/1 )--   Panda         *
-(1/1 )++   Lidia         *                 $
+(10/21)     Heihachi      :::::::::::::::::::::: M
+(3 /22)--   Hwoarang      ::::::::::::::::::::::
+(5 /18)-    Bryan         :::::::::::::::::::::
+(7 /20)-    Dragunov      ::::::::::::::::::::
+(2 /18)--   Lei           ::::::::::::::::::     $
+(3 /16)--   Asuka         *****************
+(3 /16)--   Lili          *****************
+(3 /15)--   Miguel        ::::::::::::::::
+(8 /15)     Steve         ::::::::::::::::
+(5 /15)-    Paul          ::::::::::::::::
+(1 /15)--   Jin           :::::::::::::::        M
+(2 /14)--   Kazuya        :::::::::::::::        M
+(3 /15)--   Devil Jin     :::::::::::::::        M
+(3 /14)-    Lee           :::::::::::::::
+(1 /15)--   King          :::::::::::::::
+(5 /15)-    Noctis        :::::::::::::::        $
+(1 /10)--   Josie         **************
+(6 /14)     Armor King    ::::::::::::::         $
+(4 /13)-    Alisa         *************
+(0 /12)--   Feng          ::::::::::::
+(1 /11)--   Jack-7        ::::::::::::
+(2 /12)--   Lucky Chloe   ************
+(0 /10)--   Xiaoyu        ***********
+(1 /9 )--   Zafina        *********              $
+(2 /8 )-    Law           :::::::::
+(2 /8 )-    Yoshimitsu    :::::::::
+(0 /8 )--   Kunimitsu     ********               $
+(1 /8 )--   Eddy          ::::::::
+(1 /8 )--   Leo           ********
+(1 /8 )--   Lars          ::::::::
+(1 /8 )--   Geese         ::::::::               $
+(0 /8 )--   Kazumi        ********
+(1 /8 )--   Bob           ::::::::
+(1 /8 )--   Marduk        ::::::::               $
+(2 /7 )-    Leroy Smith   :::::::                $
+(1 /6 )--   Gigas         ::::::
+(1 /6 )--   Master Raven  ******
+(1 /5 )--   Negan         :::::                  $
+(1 /5 )--   Nina          *****
+(1 /5 )--   Julia         *****                  $
+(3 /4 )+    Akuma         ::::
+(0 /3 )--   Anna          ****                   $
+(0 /4 )--   Ganryu        ::::                   $
+(2 /3 )+    Shaheen       ::::
+(0 /4 )--   Fahkumram     ::::                   $
+(0 /1 )--   Kuma          :::
+(1 /2 )     Eliza         **                     $
+(0 /2 )--   Claudio       ::
+(1 /2 )     Lidia         **                     $
+(0 /1 )--   Katarina      **
+(0 /1 )--   Panda         *
 
   ~Summary~
 
-105 (27.9%) Lose quit
- 85 (22.5%) Connection
- 66 (17.5%) No re
- 54 (14.3%) No skip
- 31 ( 8.2%) Aight
- 26 ( 6.9%) Win quit
- 22 ( 5.8%) Good
- 14 ( 3.7%) No comment
- 14 ( 3.7%) Great
- 13 ( 3.4%) Plug
-  9 ( 2.4%) Desync
-  8 ( 2.1%) BM
-  8 ( 2.1%) Okay
-  7 ( 1.9%) Cheat
-  3 ( 0.8%) Custom
-  1 ( 0.3%) Boosted
-(55.4%) total No re, Lose quit, Win quit, Plug
-(64.0%) total No re, excluding connection, cheating, "no comment", desync
+150 (28.8%) Lose quit
+134 (25.8%) Connection
+ 68 (13.1%) No skip
+ 66 (12.7%) No re
+ 50 ( 9.6%) Aight
+ 39 ( 7.5%) Win quit
+ 26 ( 5.0%) Good
+ 24 ( 4.6%) No comment
+ 22 ( 4.2%) Plug
+ 18 ( 3.5%) Great
+ 17 ( 3.3%) BM
+ 12 ( 2.3%) Desync
+ 12 ( 2.3%) Cheat
+  9 ( 1.7%) Okay
+  4 ( 0.8%) Custom
+  2 ( 0.4%) Boosted
+(53.1%) total No re, Lose quit, Win quit, Plug
+(61.7%) total No re, excluding connection, cheating, "no comment", desync
 ```
 
 ## Setup
