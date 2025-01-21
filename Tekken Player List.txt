@@ -241,7 +241,7 @@ TheHumbleBEAST1_TTV		Miguel		(76561199499346659)	Win quit, bad connection
 Showmatic			Kunimitsu	(76561198417963512)	Win quit
 FBX				Gigas		(76561199030014454)	Plugger, lose quit
 He's Doing Strings !!!!		Bryan		(76561198045811974)	no comment yet
-Big Cheese			Devil Jin	(76561198107313802)	Lose quit, desync?
+Big Cheese			Devil Jin	(76561198107313802)	Lose quit X2, desync?
 Upgrxde				Hwoarang	(76561198071825764)	Bad connection
 Tou				Julia		(76561198342846511)	Good
 Rock this way			Feng		(76561198331231633)	Lose quit, boosted
@@ -273,8 +273,7 @@ yankari				Leroy Smith	(76561199082769095)	Lose quit
 ricefarmerli			Lee		(76561198360306590)	Win quit
 EugNutz				Lee		(76561198060074102)	Okay
 MisterMikNasty			Geese		(76561198124079971)	No skip
-sirdab				Steve		(76561198817424199)	BM, win quit
-SquirrlyNinja			Bryan		(76561198187753661)	Bad connection
+SquirrlyNinja			Bryan		(76561198187753661)	Bad connection, lose quit
 batwings			Kazumi		(76561198165266844)	Lose quit x2
 PingPongPaladin			Heihachi	(76561198065356068)	Good, bad connection, no skip
 Gilgame				Devil Jin	(76561198258331107)	Aight
@@ -430,7 +429,6 @@ KAZUYAMISHIMAWIN		Kazuya		(76561199535836448)	Lose quit, no skip
 enzo_s4ma			Lars		(76561199111317577)	Aight
 Areyouawake			Leroy Smith	(76561197963780541)	???
 never gonna give u up		Ganryu		(76561198407320312)	Cheater
-Brewtoid			Lei		(76561199485792770)	Lose quit
 poop				Asuka		(76561197985573044)	Aight
 Pokito Yuuki			Kunimitsu	(76561198450285643)	Terrible connection
 InfernoHawk			Miguel		(76561198804967091)	Aight, low skill
@@ -440,16 +438,12 @@ frizbyman			Akuma		(76561198269172680)	Aight
 dashmeezz			Marduk		(76561198963340749)	BM, win quit
 Ginger				Kazumi		(76561199741739094)	Lose quit
 Radioactive Cactus		Eliza		(76561199182096957)	Good, bad connection
-n23nbagm			Negan		(76561198008219338)	Plugger
-rizzla				Josie		(76561197971370768)	Bad connection, win quit
 Straight Mustard Face		Heihachi	(76561198069795852)	Aight, lose quit
 TTV/THUHREALMAK			Bob		(76561198392413351)	Win quit
 LumiNaj				Kunimitsu	(76561198067732902)	Lose quit
-White Steel			Law		(76561199390573147)	aight
 Londier				Akuma		(76561198042903987)	Aight
 RDT || FUSIONDARK-TTPasco	Heihachi	(76561198402404298)	Great, iffy connection
 Howaaah				Paul		(76561199141773106)	Aight
-AntiKiller			Eddy		(76561199210293493)	Plugger?
 PufferBish			Marduk		(76561198419914265)	Aight
 ee3van				Yoshimitsu	(76561199222120257)	no comment yet
 Bjorker King			Heihachi	(76561198057517920)	Aight
@@ -457,7 +451,7 @@ scope_TK			Bryan		(76561199086815586)	Aight, no skip, bad connection
 n8ro0				Eddy		(76561198300839681)	Plugger
 Aph				Dragunov	(76561198100778329)	Aight
 ALIZAA				Alisa		(76561199350461629)	Bad connection, lose quit
-vicbygod			Kazuya		(76561198312990834)	Terrible connection
+vicbygod			Kazuya		(76561198312990834)	Terrible connection x2
 Makaveli			Jin		(76561198026254527)	Lose quit
 Shiv				Noctis		(76561198915519739)	Lose quit
 thorntonmarcades		Steve		(76561198886107234)	AFK
@@ -468,35 +462,28 @@ The American Dream!		Heihachi	(76561198258631321)	Aight, mid connection
 luka1808			Heihachi	(76561198044087701)	Terrible connection, BM
 Alisa				Alisa		(76561199106909536)	BM, terrible connection, no skip
 Stepanoid			Kazumi		(76561199010032980)	Plugger
-stevepox			Steve		(76561198825705933)	lose quit x2
-RuOK				Hwoarang	(76561198070765348)	Plug?
 Xelam				Heihachi	(76561199152923929)	no comment yet
-Bob				Miguel		(76561199097432259)	Plug?
 Dr.Octagon			Akuma		(76561197998901342)	Aight
 michelleonyxx			Josie		(76561199304641002)	no comment yet
 nevermind the spider		Lee		(76561199135805853)	Aight
 Cnop				Yoshimitsu	(76561198052006567)	Great
 Broken Human			Josie		(76561198067426366)	no comment yet
-S H I N O B I			Steve		(76561198064659073)	no comment yet
 Mr.Blue1o7			Miguel		(76561198880870438)	no comment yet
 arkociel1			Law		(76561198872215566)	Bad connection, plugger, BM
 Avan				Lei		(76561197969740193)	noob
 masterofmotion			Xiaoyu		(76561198274582629)	CHEATER, lag switch, AVOID
-kimx5238			Hwoarang	(76561199043620309)	Okay
 RADIX				Shaheen		(76561198078186018)	Lose quit
 JayPixel Hattington		Lili		(76561198166361121)	Aight, noob
 Luupz				Negan		(76561198129609220)	Lose quit
 cchavarria.imvehi		Alisa		(76561199436750862)	Bad connection, lose quit, noob
-Rested_G			Bryan		(76561198043717803)	Win quit
+Rested_G			Bryan		(76561198043717803)	No re X2
 Nastya				Nina		(76561199240165624)	Bad connection, lose quit
 bewatermyfriend			Armor King	(76561198101891797)	Win quit
-FighterInTheWind		Hwoarang	(76561199435584377)	Lose quit
 PaperMug			Shaheen		(76561198048727013)	Good. Bot?
 [overlay] CheaterSBQ		Hwoarang	(76561199089897095)	Cheater, lose quit
 Erwin06				Kazumi		(76561198092307058)	noob
 realitysurf			Lucky Chloe	(76561198842019549)	Lose quit
 Flora				Kunimitsu	(76561199567047151)	Noob? Bot?
-soltab14			Josie		(76561198333463243)	Lose quit
 Ojuara94			Eddy		(76561198170789875)	No skip, BM
 [overlay] Chase Kira		Zafina		(76561198376335472)	Cheater, custom
 Top Dizog			Lei		(76561198084857104)	afk, bot?
@@ -504,7 +491,7 @@ Cry Harder			Geese		(76561198831706458)	No skip, lose quit
 Kryptik				Lei		(76561198259735644)	Bad connection
 BovineBabe			Hwoarang	(76561198117175992)	Noob, bad connection
 WONHWOA				Lars		(76561199064543388)	Bad connection. Bot? Cheater?
-_outcast			Noctis		(76561199069225765)	Aight, bm
+_outcast			Noctis		(76561199069225765)	No skip, lose quit, bm
 Rayman				Alisa		(76561199056036761)	No skip, win quit
 GrandAlchemist			Asuka		(76561198084184796)	Aight, noob
 -_-				Yoshimitsu	(76561198032952143)	Good
@@ -519,3 +506,157 @@ pazbryan32			Geese		(76561199508920885)	desync
 zargon133			Kunimitsu	(76561199084102424)	Bad connection, lose quit
 uche_oji			Heihachi	(76561198858503804)	Terrible connection
 YOKO				Eddy		(76561198124436589)	Noob
+karinabil			Anna		(76561199201742397)	Bad connection, win quit X2
+Arlecchino			Alisa		(76561199493507857)	Good, mid connection
+Tron Carter			Master Raven	(76561198356714062)	Plugger
+Killua571			Heihachi	(76561199062332048)	plugger
+LeoLocs				Eddy		(76561198128708723)	Noob, lose quit
+drgentlej			Law		(76561199112814830)	Lose quit
+The real Kingpin		Steve		(76561199150530668)	Noob, lose quit
+Cat				Josie		(76561198173446277)	Bad connection, no skip
+twitch.tv/ushutdhellup		Fahkumram	(76561198238470852)	bad custom
+Dr. Kelloggs			Law		(76561198084202606)	Lose quit x2
+TheCrimsonSamurai		Kazuya		(76561198255762260)	Noob, lose quit
+MDL 				Negan		(76561198338778610)	Noob, lose quit
+Rez				King		(76561198027516253)	Noob, lose quit
+A Can of Bushes baked Beans	Kunimitsu	(76561198029791428)	Terrible connection, no skip
+izyk.mzk			Bryan		(76561199745351435)	lose quit X2
+KILL_SHOT			Paul		(76561198110351697)	Noob
+Hijro				Kazuya		(76561198004802204)	Bad connection
+darkwalker11			Marduk		(76561199194004885)	Laggy
+CICKO				Devil Jin	(76561198339904565)	Bad connection
+Kappa				Yoshimitsu	(76561198241087256)	Noob, lose quit
+Ch1ldH1tter			Law		(76561198133453819)	Lose quit
+Dxmi				Devil Jin	(76561199468652271)	Noob, terrible connection
+MITHRALA			Kunimitsu	(76561198296781899)	Noob, lose quit
+Joon				Paul		(76561199039847329)	Cheater, noob
+Chevalier D'Vachlaque		Jin		(76561198080408142)	no comment yet
+LiveByTheSword			Master Raven	(76561198134288500)	Noob, lose quit
+kimx5238			Hwoarang	(76561199043620309)	Terrible connection, no skip, BM
+Garg				Bryan		(76561197968459617)	Bad connection x2, no skip x2
+FrAshitaka			Xiaoyu		(76561199032437874)	Noob, lose quit, bad connection
+minhok1				Hwoarang	(76561198935348193)	Lose quit X2
+GoudaGlory			Xiaoyu		(76561198229730704)	Noob
+Bax				Heihachi	(76561198104666906)	Okay, plugger
+Typical Behavior		Kazuya		(76561198166764460)	Bad connection Mishima
+Shio				Devil Jin	(76561199519190784)	No skip X2, lose quit X2, bad connection Mishima
+DemonTiming			Heihachi	(76561199106022872)	Terrible connection Mishima
+armustafa2303			Bryan		(76561199435901873)	Lag switch, cheater, bad connection, BM, no skip
+crownouns			Heihachi	(76561198321173187)	Boosted, bad connection Mishima, Lose quit
+larrydropscombos		Jin		(76561199145710287)	Noob, lose quit
+Goblin				Lili		(76561199466108019)	Noob, lose quit
+Infamous			Jin		(76561198053701090)	Lose quit
+timmyspotato900			Paul		(76561198173075347)	Lose quit
+Bob				Miguel		(76561199097432259)	Plug X2
+WagnerRengaw80			Bob		(76561198403371337)	Terrible connection, BM
+ymanish88			Julia		(76561199122095731)	Bad connection, lose quit
+PunishedRetiree			Marduk		(76561198087938100)	Bad connection, lose quit x2, bm
+Soulblight			Lei		(76561198051368049)	Terrible connection
+YouCheapPOS			Paul		(76561198832009150)	Terrible connection x3
+TheRealC2K			Miguel		(76561198056334631)	Noob, lose quit
+KyeCreates			Lei		(76561199712048585)	Bad connection, win quit
+Saiku				Lili		(76561198313540926)	Noob, lose quit
+whimbrelimpkin			Heihachi	(76561199443145567)	No skip, lose quit, noob
+DDK				Fahkumram	(76561198388436312)	aight
+AntiKiller			Eddy		(76561199210293493)	Noob x2, lose quit x2, bad connection, plug?
+Bronze Bull			Nina		(76561198083527711)	Great
+(BIG)♡Booty Eating Bandit♡	NULL		(76561198353072216)	Doesn't accept matches
+soltab14			Steve		(76561198333463243)	Lose quit X3
+stevepox			Steve		(76561198825705933)	lose quit X5, AFK X2, bad connection
+ElbowCrush			Armor King	(76561199089935992)	Bad connection, lose quit x2
+BattleChode			Law		(76561197971113506)	Aight, mid connection
+Bruc3???L33			Alisa		(76561198037927394)	Terrible connection, noob
+BOT Tony			Josie		(76561198228231520)	Noob
+jcrewsswd			Lei		(76561199496181787)	Lose quit, noob
+mitchelldavies682		Nina		(76561198372567526)	Noob, lose quit
+dogeater			King		(76561198435777104)	Noob, lose quit, no skip
+NEWYORKHULK			Law		(76561199010949596)	Noob, lose quit
+...				Law		(76561199624279429)	Lose quit
+TargetPrice			Lidia		(76561198024937373)	Lose quit, noob, terrible connection
+MeOeM				Hwoarang	(76561198070765348)	Lose quit x2, plug x2
+Back to Saturn X		Eddy		(76561198242937890)	Lose quit
+glooit22			Alisa		(76561199381355603)	Noob, lose quit
+YOAK				Miguel		(76561198869333725)	Noob
+skarlezone			Bryan		(76561198055542621)	Great
+Djehutyz			Devil Jin	(76561198343886988)	Aight, lose quit
+mrmokuchu			Kazuya		(76561198797270033)	Terrible connection Mishima
+KitOkuRi			Nina		(76561198177351089)	Noob, lose quit, bad connection
+Gallifreyan			Law		(76561198130591462)	Noob, lose quit
+DerpySyrup			Jin		(76561199233353022)	Noob, lose quit
+sdochoa				Miguel		(76561199255005923)	Terrible connection, lose quit, noob
+rizzla				Josie		(76561197971370768)	Bad connection x2, win quit x2
+Noodll_				Bryan		(76561199024199758)	no comment yet
+Brewtoid			Lei		(76561199485792770)	Lose quit x2
+thanks boss			Jin		(76561198264776612)	Noob
+darrel822000			Eddy		(76561197967819981)	lose quit x2
+Kris Allen			Geese		(76561198086889984)	Lose quit, plug?
+startingmoon919			Josie		(76561199265872752)	Bad connection, win quit, no skip
+n23nbagm			Paul		(76561198008219338)	plug x2
+FighterInTheWind		Hwoarang	(76561199435584377)	aight
+sanwen				King		(76561198075554032)	Noob, lose quit
+DillyDallyShillyShally		Negan		(76561198283966066)	Noob, bad connection, desync
+gamerZ				Jin		(76561199034511079)	Bad connection Mishima
+MFGRAVE				Lucky Chloe	(76561198244747008)	Noob, bad connection, lose quit
+Jinx				Steve		(76561198166268456)	Noob
+Bella				Kunimitsu	(76561199086536650)	Bad connection
+Caffeinated Devil Jin Main???	Devil Jin	(76561199487234897)	Bad connection Mishima, win quit
+alexanderlazo193		Miguel		(76561199407781393)	Noob
+AEW0128				King		(76561199653194713)	Terrible connection, win quit, no skip
+bryan				Jin		(76561198357096380)	Desync?
+??? iPrim3			Eddy		(76561198165325561)	Noob, lose quit
+InstantRamen			King		(76561198374624105)	Good, noob
+> Xx 1BadMF  xX			Paul		(76561198997159723)	Ducker, plug x3
+apatterson			Lili		(76561198435475255)	Noob, no skip, bad connection
+LOW TIER HERO			Yoshimitsu	(76561199354905844)	Lag switch, cheat
+WhoisEJ				Lee		(76561199164208343)	Good
+Apistat Commander		Heihachi	(76561198367389841)	Aight, bad connection
+pOtAtOe_BuNs			Noctis		(76561199116703188)	Lose quit, noob
+San_LiftsTV			Steve		(76561199648831868)	Noob, lose quit
+Bleeps				Kunimitsu	(76561199111607332)	BM, terrible connection, no skip
+FasterSloth			Gigas		(76561198320381717)	Noob, lose quit
+jjooni98			Armor King	(76561199013184780)	Aight, noob
+YenSikk				Steve		(76561198150262972)	Noob
+Chaos DT			Yoshimitsu	(76561199645530580)	Lose quit x2, afk
+Fiji				Julia		(76561198080903406)	Noob, lose quit
+Heathykins			Lili		(76561198883437354)	Lose quit
+I Spam You Block		Negan		(76561198171343202)	Lose quit
+S H I N O B ii			Steve		(76561198064659073)	Noob, lose quit
+Siralon_			Dragunov	(76561199152764734)	Noob, lose quit
+ImTheChunk			Jin		(76561199141098995)	Noob, lose quit
+I>W>A>T>A			Kazuya		(76561198964511536)	Noob, lose quit
+Gervin				Yoshimitsu	(76561199148338136)	Aight, noob
+END | 16bit_ktempo TTV		Josie		(76561198928615302)	BM, win quit, no skip
+???CoRNeRNoTe???		Alisa		(76561198013846619)	no comment yet
+i khen do ateck			Josie		(76561198875957898)	Aight
+247Ws				Armor King	(76561198987731529)	Lose quit
+SOHcook				Jin		(76561198879930286)	Noob, plugger
+ctaigsteele61			Noctis		(76561199105692596)	no comment yet
+GiantRudeKid			Negan		(76561198004827518)	weird
+tsutchie6			Nina		(76561199084186391)	Noob, lose quit
+Rashad				Bryan		(76561198960130466)	Lose quit
+CasulScrub			Lili		(76561198048904141)	Noob, lose quit
+Evol				Kazuya		(76561198440844405)	Noob
+Phyre Z				Hwoarang	(76561198414632225)	Noob, lose quit
+RedlightRunner216		Josie		(76561198089995189)	aight
+sirdab				Jin		(76561198817424199)	BM, no re X2
+JP Rock				Jin		(76561198090652266)	Bad connection Mishima, lose quit
+The REDSTAR?!			Devil Jin	(76561198020647853)	no comment yet
+Light RepliCant			Jin		(76561198119465867)	Great, noob
+JARRED				Hwoarang	(76561198213442231)	noob, terrible connection
+adsequor			Bryan		(76561198040607885)	Lose quit
+Gan				Zafina		(76561199211427832)	No skip, bad connection
+Strata				Law		(76561199390573147)	Great
+Lypus				Armor King	(76561198052988350)	Aight, bad connection
+The Rizzard Of Oz		Nina		(76561198381291409)	Noob, lose quit
+Gunbeard			Armor King	(76561197993589942)	no comment yet
+Andsuzen			Miguel		(76561198426872622)	no comment yet
+zen				Kazuya		(76561198353567657)	Okay, noob
+jayeffsee			Eddy		(76561199344171400)	No skip, win quit, bad connection
+Narvik				Hwoarang	(76561198166375786)	Lag switch, bad connection
+IAsxend!			Jin		(76561199068858950)	no comment yet
+Resare [FT2]			Josie		(76561197961793854)	No re
+kar				Armor King	(76561198835611325)	Aight
+Blackmamba			Josie		(76561199277244883)	Noob
+GILF STORM			Bryan		(76561197984608049)	no comment yet
+CEMR				Lei		(76561198176726958)	No re x2
+lil grey			Armor King			(76561199032978163)			BM, no skip, win quit
