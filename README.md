@@ -6,96 +6,97 @@ I also linked my "Tekken Player list.txt", which includes, among others, ~19 che
 
 ## Example output:
 ```
+Note: plugging is cheating
 No duplicate IDs found in player list.
 
   ~Fun Facts~
 
-Total players VS'd: 520
+Total players VS'd: 660
 All characters found
-27.7% VS females (35.3% expected)
+27.1% VS females (35.3% expected)
 21.7% VS DLC (29.4% expected)
-(33/67) Mishimas had a bad connection
-(4/9) Laws had a bad connection
-Cheater chars (14): Bryan, Feng, Feng, Ganryu, Heihachi, Hwoarang, King, King, King, Lars, Lars, Paul, Xiaoyu, Zafina
-Plugging chars (22): Alisa, Armor King, Eddy, Eddy, Feng, Ganryu, Geese, Gigas, Hwoarang, Hwoarang, Jin, Josie, Kazumi, Law, Law, Lee, Lei, Leroy Smith, Marduk, Miguel, Negan, Steve
+(45/99) Mishimas had a bad connection
+(5/16) Laws had a bad connection
+Cheater chars (46): Alisa, Armor King, Bryan x2, Eddy x2, Feng x3, Ganryu x2, Geese x2, Gigas, Heihachi x4, Hwoarang x3, Jin x2, Josie, Kazumi, King x3, Lars x2, Law x2, Lee, Lei, Leroy Smith, Marduk, Master Raven, Miguel, Paul x4, Steve, Xiaoyu, Yoshimitsu, Zafina
 
   ~Chart~
 
 Note: Good% accounts for 'no comment yet', but freq does not
 
-Good%      Name          Freq
-(10/21)     Heihachi      :::::::::::::::::::::: M
-(3 /22)--   Hwoarang      ::::::::::::::::::::::
-(5 /18)-    Bryan         :::::::::::::::::::::
-(7 /20)-    Dragunov      ::::::::::::::::::::
-(2 /18)--   Lei           ::::::::::::::::::     $
-(3 /16)--   Asuka         *****************
-(3 /16)--   Lili          *****************
-(3 /15)--   Miguel        ::::::::::::::::
-(8 /15)     Steve         ::::::::::::::::
-(5 /15)-    Paul          ::::::::::::::::
-(1 /15)--   Jin           :::::::::::::::        M
-(2 /14)--   Kazuya        :::::::::::::::        M
-(3 /15)--   Devil Jin     :::::::::::::::        M
-(3 /14)-    Lee           :::::::::::::::
-(1 /15)--   King          :::::::::::::::
-(5 /15)-    Noctis        :::::::::::::::        $
-(1 /10)--   Josie         **************
-(6 /14)     Armor King    ::::::::::::::         $
-(4 /13)-    Alisa         *************
-(0 /12)--   Feng          ::::::::::::
-(1 /11)--   Jack-7        ::::::::::::
-(2 /12)--   Lucky Chloe   ************
-(0 /10)--   Xiaoyu        ***********
-(1 /9 )--   Zafina        *********              $
-(2 /8 )-    Law           :::::::::
-(2 /8 )-    Yoshimitsu    :::::::::
-(0 /8 )--   Kunimitsu     ********               $
-(1 /8 )--   Eddy          ::::::::
-(1 /8 )--   Leo           ********
-(1 /8 )--   Lars          ::::::::
-(1 /8 )--   Geese         ::::::::               $
-(0 /8 )--   Kazumi        ********
-(1 /8 )--   Bob           ::::::::
-(1 /8 )--   Marduk        ::::::::               $
-(2 /7 )-    Leroy Smith   :::::::                $
-(1 /6 )--   Gigas         ::::::
-(1 /6 )--   Master Raven  ******
-(1 /5 )--   Negan         :::::                  $
-(1 /5 )--   Nina          *****
-(1 /5 )--   Julia         *****                  $
-(3 /4 )+    Akuma         ::::
-(0 /3 )--   Anna          ****                   $
-(0 /4 )--   Ganryu        ::::                   $
-(2 /3 )+    Shaheen       ::::
-(0 /4 )--   Fahkumram     ::::                   $
-(0 /1 )--   Kuma          :::
-(1 /2 )     Eliza         **                     $
-(0 /2 )--   Claudio       ::
-(1 /2 )     Lidia         **                     $
-(0 /1 )--   Katarina      **
-(0 /1 )--   Panda         *
+Good%       Name          Freq
+(6 /24)-    Bryan         gggggg_____bbbbbbbbbbbbbbbbBB
+(2 /26)--   Jin           gg__bbbbbbbbbbbbbbbbbbbbbbBB  M
+(12/27)     Heihachi      gggggggggggg_bbbbbbbbbbbBBBB  M
+(3 /26)--   Hwoarang      gggbbbbbbbbbbbbbbbbbbbbBBB
+(3 /21)--   Kazuya        ggg_bbbbbbbbbbbbbbbbbb        M
+(2 /22)--   Lei           ggbbbbbbbbbbbbbbbbbbBB        $
+(5 /21)-    Paul          ggggg_bbbbbbbbbbbbBBBB
+(3 /21)--   Lili          ggg_bbbbbbbbbbbbbbbbbb
+(7 /21)-    Dragunov      gggggggbbbbbbbbbbbbbB
+(4 /20)--   Devil Jin     gggg_bbbbbbbbbbbbbbbb         M
+(3 /17)--   Josie         ggg____bbbbbbbbbbbbbB
+(3 /19)--   Miguel        ggg__bbbbbbbbbbbbbbbB
+(9 /20)     Armor King    ggggggggg_bbbbbbbbbbB         $
+(2 /20)--   King          ggbbbbbbbbbbbbbbbBBB
+(8 /20)-    Steve         ggggggggbbbbbbbbbBBB
+(3 /16)--   Asuka         ggg_bbbbbbbbbbbbb
+(5 /16)-    Alisa         ggggg_bbbbbbbbbbB
+(4 /16)-    Noctis        gggg_bbbbbbbbbbbb             $
+(4 /15)-    Lee           gggg_bbbbbbbbbbB
+(3 /15)--   Law           ggg_bbbbbbbbbbBB
+(1 /13)--   Eddy          gbbbbbbbbbbBB
+(3 /12)-    Yoshimitsu    ggg_bbbbbbbBB
+(2 /13)--   Lucky Chloe   ggbbbbbbbbbbb
+(0 /12)--   Xiaoyu        _bbbbbbbbbbbB
+(0 /12)--   Kunimitsu     bbbbbbbbbbbb                  $
+(0 /12)--   Feng          bbbbbbbbbBBB
+(1 /11)--   Jack-7        g_bbbbbbbbbb
+(2 /10)--   Nina          ggbbbbbbbb
+(1 /10)--   Zafina        gbbbbbbbbB                    $
+(1 /10)--   Marduk        gbbbbbbbbB                    $
+(1 /9 )--   Geese         gbbbbbbBB                     $
+(1 /9 )--   Bob           gbbbbbbbb
+(1 /8 )--   Negan         gbbbbbbb                      $
+(1 /8 )--   Leo           gbbbbbbB
+(1 /8 )--   Lars          gbbbbbBB
+(1 /8 )--   Master Raven  gbbbbbBB
+(0 /8 )--   Kazumi        bbbbbbbB
+(2 /7 )-    Leroy Smith   ggbbbbB                       $
+(1 /7 )--   Julia         gbbbbbb                       $
+(1 /7 )--   Gigas         gbbbbbB
+(1 /6 )--   Fahkumram     gbbbbB                        $
+(0 /4 )--   Anna          _bbbb                         $
+(3 /4 )+    Akuma         gggb
+(0 /4 )--   Ganryu        bbBB                          $
+(2 /3 )+    Shaheen       gg_b
+(1 /3 )-    Lidia         gbb                           $
+(0 /1 )--   Kuma          __b
+(1 /2 )     Eliza         gb                            $
+(0 /2 )--   Claudio       bb
+(0 /1 )--   Katarina      _b
+(0 /1 )--   Panda         b
 
   ~Summary~
 
-150 (28.8%) Lose quit
-134 (25.8%) Connection
- 68 (13.1%) No skip
- 66 (12.7%) No re
- 50 ( 9.6%) Aight
- 39 ( 7.5%) Win quit
- 26 ( 5.0%) Good
- 24 ( 4.6%) No comment
- 22 ( 4.2%) Plug
- 18 ( 3.5%) Great
- 17 ( 3.3%) BM
- 12 ( 2.3%) Desync
- 12 ( 2.3%) Cheat
-  9 ( 1.7%) Okay
-  4 ( 0.8%) Custom
-  2 ( 0.4%) Boosted
-(53.1%) total No re, Lose quit, Win quit, Plug
-(61.7%) total No re, excluding connection, cheating, "no comment", desync
+216 (32.7%) Lose quit
+180 (27.3%) Connection
+ 85 (12.9%) No skip
+ 71 (10.8%) Noob
+ 70 (10.6%) No re
+ 59 ( 8.9%) Aight
+ 45 ( 6.8%) Win quit
+ 32 ( 4.8%) no comment yet
+ 29 ( 4.4%) Good
+ 28 ( 4.2%) Plug
+ 24 ( 3.6%) BM
+ 22 ( 3.3%) Great
+ 15 ( 2.3%) Cheat
+ 14 ( 2.1%) Desync
+ 10 ( 1.5%) Okay
+  5 ( 0.8%) Custom
+  4 ( 0.6%) AFK
+  3 ( 0.5%) Boosted
+(53.8%) able but unwilling to rematch
 ```
 
 ## Setup
