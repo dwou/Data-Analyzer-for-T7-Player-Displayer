@@ -11,92 +11,93 @@ No duplicate IDs found in player list.
 
   ~Fun Facts~
 
-Total players VS'd: 660
+Total players VS'd: 752
 All characters found
-27.1% VS females (35.3% expected)
-21.7% VS DLC (29.4% expected)
-(45/99) Mishimas had a bad connection
+27.8% VS females (35.3% expected)
+22.2% VS DLC (29.4% expected)
+(47/112) Mishimas had a bad connection
 (5/16) Laws had a bad connection
-Cheater chars (46): Alisa, Armor King, Bryan x2, Eddy x2, Feng x3, Ganryu x2, Geese x2, Gigas, Heihachi x4, Hwoarang x3, Jin x2, Josie, Kazumi, King x3, Lars x2, Law x2, Lee, Lei, Leroy Smith, Marduk, Master Raven, Miguel, Paul x4, Steve, Xiaoyu, Yoshimitsu, Zafina
+Cheater chars (49): Alisa, Armor King, Bryan x2, Eddy x2, Fahkumram, Feng x2, Ganryu x2, Geese x2, Gigas, Heihachi x4, Hwoarang x3, Jin x2, Josie x2, Kazumi, King x3, Lars x2, Law x2, Lee, Lei, Leroy Smith, Marduk, Master Raven, Miguel, Nina, Paul x4, Steve, Xiaoyu, Yoshimitsu x2, Zafina
 
   ~Chart~
 
 Note: Good% accounts for 'no comment yet', but freq does not
 
-Good%       Name          Freq
-(6 /24)-    Bryan         gggggg_____bbbbbbbbbbbbbbbbBB
-(2 /26)--   Jin           gg__bbbbbbbbbbbbbbbbbbbbbbBB  M
-(12/27)     Heihachi      gggggggggggg_bbbbbbbbbbbBBBB  M
-(3 /26)--   Hwoarang      gggbbbbbbbbbbbbbbbbbbbbBBB
-(3 /21)--   Kazuya        ggg_bbbbbbbbbbbbbbbbbb        M
-(2 /22)--   Lei           ggbbbbbbbbbbbbbbbbbbBB        $
-(5 /21)-    Paul          ggggg_bbbbbbbbbbbbBBBB
-(3 /21)--   Lili          ggg_bbbbbbbbbbbbbbbbbb
-(7 /21)-    Dragunov      gggggggbbbbbbbbbbbbbB
-(4 /20)--   Devil Jin     gggg_bbbbbbbbbbbbbbbb         M
-(3 /17)--   Josie         ggg____bbbbbbbbbbbbbB
-(3 /19)--   Miguel        ggg__bbbbbbbbbbbbbbbB
-(9 /20)     Armor King    ggggggggg_bbbbbbbbbbB         $
-(2 /20)--   King          ggbbbbbbbbbbbbbbbBBB
-(8 /20)-    Steve         ggggggggbbbbbbbbbBBB
-(3 /16)--   Asuka         ggg_bbbbbbbbbbbbb
-(5 /16)-    Alisa         ggggg_bbbbbbbbbbB
-(4 /16)-    Noctis        gggg_bbbbbbbbbbbb             $
-(4 /15)-    Lee           gggg_bbbbbbbbbbB
-(3 /15)--   Law           ggg_bbbbbbbbbbBB
-(1 /13)--   Eddy          gbbbbbbbbbbBB
-(3 /12)-    Yoshimitsu    ggg_bbbbbbbBB
-(2 /13)--   Lucky Chloe   ggbbbbbbbbbbb
-(0 /12)--   Xiaoyu        _bbbbbbbbbbbB
-(0 /12)--   Kunimitsu     bbbbbbbbbbbb                  $
-(0 /12)--   Feng          bbbbbbbbbBBB
-(1 /11)--   Jack-7        g_bbbbbbbbbb
-(2 /10)--   Nina          ggbbbbbbbb
-(1 /10)--   Zafina        gbbbbbbbbB                    $
-(1 /10)--   Marduk        gbbbbbbbbB                    $
-(1 /9 )--   Geese         gbbbbbbBB                     $
-(1 /9 )--   Bob           gbbbbbbbb
-(1 /8 )--   Negan         gbbbbbbb                      $
-(1 /8 )--   Leo           gbbbbbbB
-(1 /8 )--   Lars          gbbbbbBB
-(1 /8 )--   Master Raven  gbbbbbBB
-(0 /8 )--   Kazumi        bbbbbbbB
-(2 /7 )-    Leroy Smith   ggbbbbB                       $
-(1 /7 )--   Julia         gbbbbbb                       $
-(1 /7 )--   Gigas         gbbbbbB
-(1 /6 )--   Fahkumram     gbbbbB                        $
-(0 /4 )--   Anna          _bbbb                         $
-(3 /4 )+    Akuma         gggb
-(0 /4 )--   Ganryu        bbBB                          $
-(2 /3 )+    Shaheen       gg_b
-(1 /3 )-    Lidia         gbb                           $
-(0 /1 )--   Kuma          __b
-(1 /2 )     Eliza         gb                            $
-(0 /2 )--   Claudio       bb
-(0 /1 )--   Katarina      _b
-(0 /1 )--   Panda         b
+Tot Good%      Name          Freq
+ 33 ( 2/30)--  Jin           gg___bbbbbbbbbbbbbbbbbbbbbbbbbbBB M
+ 33 ( 7/28)-   Bryan         ggggggg_____bbbbbbbbbbbbbbbbbbbBB 
+ 29 ( 4/23)--  Josie         gggg______bbbbbbbbbbbbbbbbBBB     
+ 29 (12/28)    Heihachi      gggggggggggg_bbbbbbbbbbbbBBBB     M
+ 29 ( 4/29)--  Hwoarang      ggggbbbbbbbbbbbbbbbbbbbbbbBBB     
+ 28 ( 6/26)-   Paul          gggggg__bbbbbbbbbbbbbbbBBBBB      
+ 27 ( 4/26)--  Kazuya        gggg_bbbbbbbbbbbbbbbbbbbbbb       M
+ 25 ( 2/24)--  Lei           gg_bbbbbbbbbbbbbbbbbbbbBB         $
+ 24 ( 7/23)-   Dragunov      ggggggg_bbbbbbbbbbbbbbbB          
+ 23 ( 4/21)--  Devil Jin     gggg__bbbbbbbbbbbbbbbbb           M
+ 23 ( 4/21)--  Miguel        gggg__bbbbbbbbbbbbbbbbB           
+ 23 ( 8/23)-   Steve         ggggggggbbbbbbbbbbbbBBB           
+ 23 ( 3/22)--  Lili          ggg_bbbbbbbbbbbbbbbbbbb           
+ 23 ( 9/21)    Armor King    ggggggggg__bbbbbbbbbbbB           $
+ 22 ( 2/22)--  King          ggbbbbbbbbbbbbbbbbbBBB            
+ 19 ( 3/18)--  Asuka         ggg_bbbbbbbbbbbbbbb               
+ 17 ( 4/16)-   Lee           gggg_bbbbbbbbbbbB                 
+ 17 ( 5/16)-   Alisa         ggggg_bbbbbbbbbbB                 
+ 17 ( 4/16)-   Noctis        gggg_bbbbbbbbbbbb                 $
+ 16 ( 0/16)--  Kunimitsu     bbbbbbbbbbbbbbbB                  $
+ 16 ( 1/16)--  Eddy          gbbbbbbbbbbbbbBB                  
+ 16 ( 3/15)--  Law           ggg_bbbbbbbbbbBB                  
+ 16 ( 3/15)--  Yoshimitsu    ggg_bbbbbbbbbBBB                  
+ 14 ( 0/12)--  Xiaoyu        __bbbbbbbbbbbB                    
+ 13 ( 2/13)--  Nina          ggbbbbbbbbbbB                     
+ 13 ( 2/13)--  Lucky Chloe   ggbbbbbbbbbbb                     
+ 12 ( 0/12)--  Feng          bbbbbbbbbbBB                      
+ 12 ( 1/11)--  Jack-7        g_bbbbbbbbbB                      
+ 12 ( 0/11)--  Kazumi        _bbbbbbbbbbB                      
+ 11 ( 1/11)--  Marduk        gbbbbbbbbbB                       $
+ 10 ( 1/ 9)--  Negan         g_bbbbbbbb                        $
+ 10 ( 1/ 9)--  Lars          g_bbbbbbBB                        
+ 10 ( 3/10)-   Julia         gggbbbbbbb                        $
+ 10 ( 1/10)--  Zafina        gbbbbbbbbB                        $
+ 10 ( 1/10)--  Geese         gbbbbbbbBB                        $
+  9 ( 2/ 8)-   Fahkumram     gg_bbbbBB                         $
+  9 ( 1/ 9)--  Bob           gbbbbbbbb                         
+  8 ( 1/ 8)--  Leo           gbbbbbbB                          
+  8 ( 2/ 8)-   Leroy Smith   ggbbbbbB                          $
+  8 ( 1/ 8)--  Master Raven  gbbbbbBB                          
+  7 ( 2/ 7)-   Gigas         ggbbbbB                           
+  6 ( 0/ 5)--  Anna          _bbbbb                            $
+  5 ( 3/ 5)    Akuma         gggbb                             
+  5 ( 2/ 4)    Shaheen       gg_bb                             
+  4 ( 2/ 4)    Eliza         ggbb                              $
+  4 ( 0/ 4)--  Claudio       bbbb                              
+  4 ( 0/ 4)--  Ganryu        bbBB                              $
+  4 ( 1/ 4)-   Lidia         gbbb                              $
+  3 ( 0/ 1)--  Kuma          __b                               
+  2 ( 0/ 1)--  Katarina      _b                                
+  1 ( 0/ 1)--  Panda         b                                 
+
+(131/707) Overall
 
   ~Summary~
 
-216 (32.7%) Lose quit
-180 (27.3%) Connection
- 85 (12.9%) No skip
- 71 (10.8%) Noob
- 70 (10.6%) No re
- 59 ( 8.9%) Aight
- 45 ( 6.8%) Win quit
- 32 ( 4.8%) no comment yet
- 29 ( 4.4%) Good
- 28 ( 4.2%) Plug
- 24 ( 3.6%) BM
- 22 ( 3.3%) Great
- 15 ( 2.3%) Cheat
- 14 ( 2.1%) Desync
- 10 ( 1.5%) Okay
-  5 ( 0.8%) Custom
-  4 ( 0.6%) AFK
-  3 ( 0.5%) Boosted
-(53.8%) able but unwilling to rematch
+250 (33.2%) Lose quit
+206 (27.4%) Connection
+101 (13.4%) Noob
+ 92 (12.2%) No skip
+ 70 ( 9.3%) No re
+ 67 ( 8.9%) Aight
+ 50 ( 6.6%) Win quit
+ 32 ( 4.3%) Plug
+ 31 ( 4.1%) Good
+ 29 ( 3.9%) BM
+ 22 ( 2.9%) Great
+ 14 ( 1.9%) Desync
+ 14 ( 1.9%) Cheat
+ 11 ( 1.5%) Okay
+  7 ( 0.9%) Custom
+  6 ( 0.8%) AFK
+  3 ( 0.4%) Boost
+(52.8%) able but unwilling to rematch
 ```
 
 ## Setup
@@ -116,7 +117,6 @@ Good%       Name          Freq
 ## Notes
 * Line 1 in the .txt file is skipped. This is because I don't want to include the default data provided by Tekken-7-Player-Displayer and because I deleted the second line.
 * It helps to keep the .txt file in a monospaced font. Adding and removing tabs doesn't affect functionality the way I did it.
-* Key comments can be changed easily in the code.
-* The Python terminal should be monospaced in order to line up the Good% chart. Maybe you can format it so that this isn't required.
+* The Python terminal should be monospaced in order to line up the Good% chart.
 * The comments I left for "Win quit", "No re", and "Lose quit" are a bit inconsistent
-* The data I got from the Player Displayer occurred while I was mostly on Heihachi/Dragunov/Noctis/Paul, mostly around Fujin rank, with a wired connection, and I rematched most of the time and played honestly. I play from the Midwest.
+* The data I got from the Player Displayer occurred while I was mostly on Heihachi/Dragunov/Noctis/Paul/Jack, mostly around Fujin rank and player match (~400 onwards), with a wired connection, and I rematched most of the time and played honestly. I play from the Midwest.
