@@ -2,6 +2,8 @@
 from sys import modules
 import re
 
+# Note: only one character allowed per player (keep most recent)
+
 # Print character data line-by-line to verify groups
 def verify_groups(groups):
     for i in groups:
@@ -37,8 +39,8 @@ def main():
 
     # Case insensitive
     good_keys = ["Aight","Okay","Good","Great"]
-    verybad_keys = ["Cheat","Plug","AFK","Boost","Custom"]
-    bad_keys = ["No skip","No re","Lose quit","Win quit","Connection","Desync","Custom","BM","AFK","Noob"]
+    verybad_keys = ["Cheat","Plug","Boost","Lag Switch"]
+    bad_keys = ["No skip","No re","Lose quit","Win quit","Connection","Desync","Custom","BM","AFK","Noob","Custom"]
     comment_keys = good_keys + verybad_keys + bad_keys
 
     #global groups, chars, chars_nodupe
@@ -118,7 +120,7 @@ def main():
         print(f"({laws_bad_connection}/{laws_total}) Laws had a bad connection")
 
     # List of cheaters' characters with duplicates
-    cheater_chars = sorted([chars[i] for i in range(len(chars)) if any(j in comments[i] for j in ['cheat','boost','plug','duck'])])
+    cheater_chars = sorted([chars[i] for i in range(len(chars)) if any(j in comments[i] for j in ['cheat','boost','plug','duck','lag switch'])])
 
     # { Character: quantity of cheaters }
     cheater_chars_m = { j:cheater_chars.count(j) for j in cheater_chars }
@@ -139,7 +141,7 @@ def main():
     max_picks = max([ i[1][0] for i in chars_map.items() ])
     print("\n  ~Chart~\n")
     print("Note: Good% accounts for 'no comment yet', but freq does not\n")
-    print(f"Tot {'Good%'.ljust(max_num1+max_num2+5)}  Name          Freq")
+    print(f"{'Tot'.rjust(max(3,len(str(max_picks))))} {'Good%'.ljust(max_num1+max_num2+5)}  Name          Freq")
     for char in sorted(chars_map.items(),key=(lambda x:x[1][0]))[::-1]:
         symbols = '$'[:char[0] in dlcs] + 'M'[:char[0] in mishimas]
         good = 'g' * char[1][1]
